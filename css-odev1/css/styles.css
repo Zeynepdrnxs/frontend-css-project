@@ -29,12 +29,12 @@ body{
 
 header{
   width: 100%;
-  background-color: #007F73;
+  background-color: #c851a8;
 
 }
 
 header h1{
-  color: #FFF455;
+  color: #3d0629;
 }
 
 .yanyana{
@@ -59,7 +59,7 @@ nav ul li::after{
   content: "";
   width: 0;
   height: 3px;
-  background-color: #FFF455;
+  background-color: #3d0629;
   position: absolute;
   left: 0;
   bottom: -5px;
@@ -72,12 +72,12 @@ nav ul li:hover::after{
 
 nav ul li a{
   text-decoration: none;
-  color: #007F73;
+  color: #c851a8;
   font-weight: bold;
 }
 
 section h3{
-  color: #007F73;
+  color: #c851a8;
   font-weight: bold;
   padding-bottom: 15px;
 }
@@ -92,13 +92,13 @@ section ul li{
   font-weight: bold;
 }
 
-/******** hakkımızda**********/
+/******** about **********/
 
 section{
   margin: 0 30px;
 }
 section [class="center"]{
-  color:#007F73;
+  color:#c851a8;
 }
 
 section .leftside{
@@ -106,12 +106,12 @@ section .leftside{
 }
 
 .sub{
-  color: #007F73;
+  color: #c851a8;
   font-weight: bold;
   padding-bottom: 15px;
 }
 
-/******** ürünler **********/
+/******** products **********/
 
 ol img{
   padding-bottom: 5px;
